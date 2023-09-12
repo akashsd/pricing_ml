@@ -1,4 +1,4 @@
-# pricing_ml
+# Data-Driven Price Discovery for New Product Listings on Amazon
 
 ## Introduction
 
